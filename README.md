@@ -3,6 +3,9 @@ Este repositorio corresponde al **Taller de Seguimiento 1** de Lenguajes de Prog
 
 ---
 
+### Resultado de preguntas abiertas
+✅ **Victor: 2/2**
+
 ### Reto 1 🧙‍♂️
 - Construir desde cero un **adivinador de números**.  
 - Se desarrolló una ventana en Tkinter que genera un número aleatorio y el usuario debe adivinarlo ingresando valores en un cuadro de texto.  
@@ -10,7 +13,13 @@ Este repositorio corresponde al **Taller de Seguimiento 1** de Lenguajes de Prog
 - Tambien el usuario puede elegir generar un nuevo numero, para no tener que abrir el programa nuevamente cada vez que trata de adivinar un numero. 
 - Se añadio un **menu de archivo**, para que el usuario sea capaz de salir a traves de el.  
 - Se añadio un **menu de ayuda**, el cual abre un menu de cascada. La primera opcion "Ayuda" explica en que consiste el archivo. La segunda opcion "Acerca de" muestra datos del creador **(Victor Cordoba)** y cuando fue creado.  
-- El archivo cuenta con un **logo/imagen** en la parte superior izquierda, exactamente una bola de cristal, ya que es la tematica del juego.  
+- El archivo cuenta con un **logo/imagen** en la parte superior izquierda, exactamente una bola de cristal, ya que es la tematica del juego.
+**ACLARACIÓN**
+- Si desea ver el logo correctamente, muy importante estar dentro de la carpeta donde esta el reto, es decir, al Ejecutar procura estar dentro de:  
+```bash
+C:\Users\USUARIO\Documents\Taller1\Reto1
+```    
+- Esto no afecta en nada a la funcionalidad del código, simplemente es un detalle visual para la correcta visualización del logo.
 
 ### Reto 2 🍳
 - A partir de una interfaz y codigo ya existente y proporcionado por el profesor.  
@@ -19,14 +28,11 @@ Este repositorio corresponde al **Taller de Seguimiento 1** de Lenguajes de Prog
 - El **menu de archivo** cuenta con la opcion **"Salir"**, para que el usuario sea capaz de salir a traves de el, logrando la comodidad del usuario.  
 - El **menu de ayuda**, el cual abre un menu de cascada. La primera opcion "Ayuda" explica en que consiste el archivo. La segunda opcion "Acerca de" muestra datos del creador **(Victor Cordoba)** y cuando fue creado.  
 **ACLARACIÓN**
-- Si desea ver el logo correctamente, muy importante estar dentro de la carpeta donde esta el reto, es decir, al Ejecutar procura estar dentro de .  
+- Si desea ver el logo correctamente, muy importante estar dentro de la carpeta donde esta el reto, es decir, al Ejecutar procura estar dentro de:  
 ```bash
 C:\Users\USUARIO\Documents\Taller1\Reto2
-```  
----
-
-### Resultado de preguntas abiertas
-✅ **Victor: 2/2**
+``` 
+- Esto no afecta en nada a la funcionalidad del código, simplemente es un detalle visual para la correcta visualización del logo.
 ---
 
 ### Instalación 🔧
