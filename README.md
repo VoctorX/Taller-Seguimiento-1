@@ -4,7 +4,7 @@ Este repositorio corresponde al **Taller de Seguimiento 1** de Lenguajes de Prog
 ---
 
 ### Resultado de preguntas abiertas
-✅ **Victor: 2/2**
+**Victor: 2/2** ✅
 
 ### Reto 1 🧙‍♂️
 - Construir desde cero un **adivinador de números**.  
@@ -14,6 +14,7 @@ Este repositorio corresponde al **Taller de Seguimiento 1** de Lenguajes de Prog
 - Se añadio un **menu de archivo**, para que el usuario sea capaz de salir a traves de el.  
 - Se añadio un **menu de ayuda**, el cual abre un menu de cascada. La primera opcion "Ayuda" explica en que consiste el archivo. La segunda opcion "Acerca de" muestra datos del creador **(Victor Cordoba)** y cuando fue creado.  
 - El archivo cuenta con un **logo/imagen** en la parte superior izquierda, exactamente una bola de cristal, ya que es la tematica del juego.
+
 **ACLARACIÓN**
 - Si desea ver el logo correctamente, muy importante estar dentro de la carpeta donde esta el reto, es decir, al Ejecutar procura estar dentro de:  
 ```bash
@@ -27,6 +28,7 @@ C:\Users\USUARIO\Documents\Taller1\Reto1
 - Se incorporo un **menú con las opciones "Ayuda" y "Archivo"**, mejorando la usabilidad de la aplicación.  
 - El **menu de archivo** cuenta con la opcion **"Salir"**, para que el usuario sea capaz de salir a traves de el, logrando la comodidad del usuario.  
 - El **menu de ayuda**, el cual abre un menu de cascada. La primera opcion "Ayuda" explica en que consiste el archivo. La segunda opcion "Acerca de" muestra datos del creador **(Victor Cordoba)** y cuando fue creado.  
+
 **ACLARACIÓN**
 - Si desea ver el logo correctamente, muy importante estar dentro de la carpeta donde esta el reto, es decir, al Ejecutar procura estar dentro de:  
 ```bash
@@ -36,7 +38,6 @@ C:\Users\USUARIO\Documents\Taller1\Reto2
 ---
 
 ### Instalación 🔧
-
 1. Clona el repositorio:
 ```bash
    git clone https://github.com/VoctorX/ProyectosGit.git
