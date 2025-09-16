@@ -68,7 +68,7 @@ def salir():
     ventana.quit()
 
 def mostrar_ayuda():
-    messagebox.showinfo("Ayuda", "1.Dale nombre a la receta.\n2.Digita los ingredientes de dicha receta")
+    messagebox.showinfo("Ayuda", "1.Dale nombre a la receta.\n2.Digita los ingredientes de dicha receta\n3.Tu receta ya esta guardada, ahora puedes ver los ingredientes que usaste.\n4.Tambien puedes borrarla si deseas.")
 
 def acerca_de():
     messagebox.showinfo("Acerca", "Creado por Victor Cordoba\nVerison 1.0\n15/09/2025")
